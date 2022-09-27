@@ -5,6 +5,7 @@
     +mail- alinaflaynger@gmail.com
     +GitHub - alinaflaynger
     
+    
 ###About Me
 Cheerful hard worker student who wants and ready to develop in the IT.
 
